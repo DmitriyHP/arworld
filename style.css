@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+background: url('../HTML/img/ipg1.jpg');  
+    
+    font-family: Arial;
+    line-height: 1.8;
+    font-size: 20px;
+    border-color: white;
+    background-color: black;
+}
+.card {
+    width: 600px;
+    margin: 0 10; 
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 5px 10px #ccc;
+    border-radius: 50%;
+    
+    
+}
+
+.card-photo {
+    width: 100px;
+    height: 100px;
+    margin: auto;
+    
+}
